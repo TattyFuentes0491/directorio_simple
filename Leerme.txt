@@ -1,0 +1,33 @@
+Usuario Admin:	taty
+Pass Admin:	0000
+
+Usuario:	olga
+Pass Usu:	0101
+
+Validar el archivo .FDB
+Las conexiones en el programa estan enrrutadas
+a la base datos Firebird DIRE.FDB
+
+Tener en cuenta las rutas de conexión.
+
+===============================================
+
+Bueno días.
+Soy la aspirante al cargo.
+Me llamo Tatiana Fuentes.
+
+El actual proyecto lo pude recrear en Delphi 10.3 usando la VCL.
+He estado investigando sobre plataformas firemonkey, pero por temas de tiempo me fue imposible resolverlo en dicha plataforma, sin embargo, sigo investigando y estudiando como hacer uso de los dbgrid en firemonkey.
+
+
+NOTA: 
+Ing. Jorge...
+Muchas gracias por su confianza en mí.
+Estuve leyendo e investigando y ya tengo claro conceptos tales como:
+
+VCL
+Diferencias entre left join y el inner join
+unicode 
+y otros conceptos mencionados en la entrevista
+
+y otros conceptos que no tenia 100% claros.
